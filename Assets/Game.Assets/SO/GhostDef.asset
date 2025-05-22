@@ -15,8 +15,8 @@ MonoBehaviour:
   ghostSpeed: 2
   fearStateInSec: 5
   scoresPerGhost: 1000
-  blinky: {r: 1, g: 0, b: 0, a: 1}
+  blinky: {r: 1, g: 1, b: 1, a: 1}
   pinky: {r: 1, g: 0, b: 0.625, a: 1}
   inky: {r: 0, g: 0.725, b: 1, a: 1}
   clyde: {r: 1, g: 0.64, b: 0, a: 1}
-  fearState: {r: 0.1, g: 0, b: 1, a: 1}
+  fearState: {r: 1, g: 1, b: 1, a: 1}
